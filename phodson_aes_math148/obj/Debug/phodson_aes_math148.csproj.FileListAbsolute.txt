@@ -1,0 +1,12 @@
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\bin\Debug\phodson_aes_math148.exe.config
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\bin\Debug\phodson_aes_math148.exe
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\bin\Debug\phodson_aes_math148.pdb
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\obj\Debug\phodson_aes_math148.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\obj\Debug\phodson_aes_math148.Form1.resources
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\obj\Debug\phodson_aes_math148.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\obj\Debug\phodson_aes_math148.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\obj\Debug\phodson_aes_math148.exe
+c:\users\peter\documents\visual studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\obj\Debug\phodson_aes_math148.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\bin\Debug\MetroFramework.Design.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\bin\Debug\MetroFramework.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\phodson_aes_math148\phodson_aes_math148\bin\Debug\MetroFramework.Fonts.dll
